@@ -1,3 +1,5 @@
+Predicting-Critical-Temperature-of-Superconductors-using-Machine-Learning
+
 This repository contains my project on predicting critical temperature of superconductors using machine learning.
 I have tried different models such as random forest, BART, CART, MARS, Artificial Neural Networks, GLM, GAM and compared the results using pairwise t-tests
 I have used different feature selection methods such as PCA, Correlation, Variable Importance
